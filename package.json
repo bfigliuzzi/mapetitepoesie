@@ -1,6 +1,6 @@
 {
   "name": "ma-petite-poesie",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -23,6 +23,7 @@
   "private": true,
   "packageManager": "npm@10.9.4",
   "dependencies": {
+    "@angular/animations": "^21.0.0",
     "@angular/cdk": "^21.0.0",
     "@angular/common": "^21.0.0",
     "@angular/compiler": "^21.0.0",
